@@ -4,7 +4,7 @@
 
 **DocBench** is a benchmark that takes raw PDF files and accompanying questions as inputs, with the objective of generating corresponding textual answers. It includes 229 real documents and 1,102 questions, spanning across five different domains and four major types of questions.
 
-![](figs/overview.png)
+![](figs/intro.png)
 
 The construction pipeline is shown above: (a) Document Collection; (b) QA-pair Generation; (c) Quality Check.
 
