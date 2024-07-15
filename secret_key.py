@@ -1,0 +1,2 @@
+HF_KEY = ""
+OPENAI_API_KEY = ""
