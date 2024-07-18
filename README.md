@@ -46,8 +46,8 @@ Second, we run the models for inference:
 ```
 python run.py \
   --system gpt4 \
-  --initial_folder 0 \
   --model_dir MODEL_DIR \	#comment this line if we use api-based models
+  --initial_folder 0
 ```
 
 ### c. Evaluate
