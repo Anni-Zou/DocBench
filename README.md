@@ -62,3 +62,18 @@ python evaluate.py \
 ```
 
 Notice: there could be some warnings for unexpected outputs. We could check the outputs according to the warning hint.
+
+
+## Citation
+If you find this work useful, please kindly cite our paper:
+```
+@misc{zou2024docbenchbenchmarkevaluatingllmbased,
+      title={DOCBENCH: A Benchmark for Evaluating LLM-based Document Reading Systems}, 
+      author={Anni Zou and Wenhao Yu and Hongming Zhang and Kaixin Ma and Deng Cai and Zhuosheng Zhang and Hai Zhao and Dong Yu},
+      year={2024},
+      eprint={2407.10701},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2407.10701}, 
+}
+```
