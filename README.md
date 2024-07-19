@@ -1,5 +1,5 @@
 # DocBench: A Benchmark for Evaluating LLM-based Document Reading Systems
-Paper Link: _[DocBench: A Benchmark for Evaluating LLM-based Document Reading Systems]([https://arxiv.org/abs/2407.10701](https://arxiv.org/pdf/2407.10701))_
+Paper Link: _[DocBench: A Benchmark for Evaluating LLM-based Document Reading Systems]([https://arxiv.org/pdf/2407.10701])_
 
 ## Introduction
 
